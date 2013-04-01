@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">NFTy</string>   
+    <string name="menu_settings">Settings</string>       
+    <string name="host_url">https://post.imageshack.us/upload_api.php</string>
+    <string name="pleasescan1">Ready to store or share your pic.</string>
+    <string name="pleasescan2">Sharing will begin when you tap an NFC compatible item with the back of your device.</string>
+    <string name="writingtag">Writing tag. Please do not turn off device or remove tag until writing completes.</string>
+
+    
+</resources>
