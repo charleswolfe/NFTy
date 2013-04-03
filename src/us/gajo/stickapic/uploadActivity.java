@@ -92,7 +92,7 @@ public class uploadActivity extends Activity {
 
 	                dos.writeBytes("Content-Disposition: form-data; name=\"key\""+ lineEnd);
 	                dos.writeBytes(lineEnd);
-	                dos.writeBytes("0DEHMRWX0f4c0191f3b6b39111fc4cf12a093cbd"); //TODO get from strings.xml
+	                dos.writeBytes("xxxxxxxxxxxxxxxxxxx"); //TODO get from strings.xml
 	                dos.writeBytes(lineEnd);
 	                dos.writeBytes(twoHyphens + boundary + lineEnd);
 	                
